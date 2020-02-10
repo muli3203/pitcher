@@ -4,5 +4,5 @@
         "titleBar.activeBackground": "#633232",
         "titleBar.activeForeground": "#FCF9F9"
     },
-    "python.pythonPath": "virtual/bin/python3.6"
+    "python.pythonPath": "/home/moringa/Documents/One-Pitch-Minute/virtual/bin/python3.6"
 }
